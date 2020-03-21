@@ -13,3 +13,5 @@ The values given by the CSVs
 * Recoveries
 
 The columns are divided for dates ```MM-DD-YY```
+
+Data sources : [Health Promotion Bureau, Sri Lanka](https://hpb.health.gov.lk)
