@@ -6,7 +6,7 @@ The data is being used to demontstrate the continous growth rate of patients in 
 
 The values given by the CSVs
 
-### Daily
+### Daily Accumulation
 
 * Cases
 * Deaths
